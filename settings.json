@@ -5,12 +5,12 @@
 */
 {
   // name your instance!
-  "title": "MNPRO Explorer",
+  "title": "MTAP Explorer",
 
-  "address": "209.250.224.186:3099",
+  "address": "mtap.explorer",
 
   // coin name
-  "coin": "MNPRO",
+  "coin": "MNTAP",
 
   // coin symbol
   "symbol": "MNP",
@@ -28,7 +28,7 @@
   "theme": "Yeti",
 
   // port to listen for requests on.
-  "port" : 3099,
+  "port" : 80,
 
   // database settings (MongoDB)
   "dbsettings": {
